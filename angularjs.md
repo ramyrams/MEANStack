@@ -6,3 +6,8 @@ A Brief Walk-through of the Ng-options in AngularJS
 https://www.undefinednull.com/2014/08/11/a-brief-walk-through-of-the-ng-options-in-angularjs/
 
 *[Angular2](http://www.angular2.com/)
+
+
+
+Planning An Angular Application
+http://developer.telerik.com/topics/web-development/planning-an-angular-application/
