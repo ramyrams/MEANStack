@@ -21,6 +21,15 @@ http://kamranahmed.info//blog/2014/08/18/event-bubbling-and-how-can-it-be-preven
 ng-stats AngularJS Profiling Tool
 https://www.martin-brennan.com/ng-stats/
 
+Understanding scope in Javascript
+http://kamranahmed.info/blog/2015/01/02/understanding-scope-in-javascript/
+
+Web Cache - Everything you need to know
+http://kamranahmed.info/blog/2017/03/14/quick-guide-to-http-caching/
+
+ES6 Succinctly
+http://kamranahmed.info/blog/2016/04/04/es6-in-depth/
+
 
 ![1](https://camo.githubusercontent.com/ec07e2499a0141f6fef7a4d5700fae1facd5d63a/68747470733a2f2f692e696d6775722e636f6d2f4b7848396335532e706e67)
 
