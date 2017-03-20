@@ -3,7 +3,11 @@
 # Javascript 
 [Go to Javascript Page] (https://github.com/ramyrams/MEANStack/blob/master/Javascript.md)
 
-
+# design-patterns
+https://github.com/kamranahmedse/design-patterns-for-humans
+http://kamranahmed.info//blog/2017/02/11/behavioral-design-patterns/
+http://kamranahmed.info//blog/2017/02/08/structural-design-patterns/
+http://kamranahmed.info//blog/2017/02/05/creational-design-patterns/
 
 https://gist.github.com/dypsilon/5819504
 
