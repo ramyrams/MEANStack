@@ -13,6 +13,8 @@ ng-stats AngularJS Profiling Tool
 https://www.martin-brennan.com/ng-stats/
 
 
+![1](https://camo.githubusercontent.com/ec07e2499a0141f6fef7a4d5700fae1facd5d63a/68747470733a2f2f692e696d6775722e636f6d2f4b7848396335532e706e67)
+
 # Frontend Roadmap
 ![1](https://camo.githubusercontent.com/c50c7d9bbeaf87deae5aaa20b61ad00d59f0ec72/68747470733a2f2f692e696d6775722e636f6d2f527374746b526f2e706e67)
 
