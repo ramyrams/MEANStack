@@ -11,3 +11,10 @@ https://gist.github.com/dypsilon/5819504
 
 ng-stats AngularJS Profiling Tool
 https://www.martin-brennan.com/ng-stats/
+
+
+# Frontend Roadmap
+![1](https://camo.githubusercontent.com/c50c7d9bbeaf87deae5aaa20b61ad00d59f0ec72/68747470733a2f2f692e696d6775722e636f6d2f527374746b526f2e706e67)
+
+# Backend Roadmap
+![1](https://camo.githubusercontent.com/7d34538867c3576aa1bd1fd9989303c832bf103a/687474703a2f2f692e696d6775722e636f6d2f4e5965304d64362e706e67)
