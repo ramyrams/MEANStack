@@ -3,6 +3,6 @@
 * [30 Learning Resources For Mastering Angular 2](http://tutorialzine.com/2016/09/30-learning-resources-for-mastering-angular-2/)
 * [Angular2 Tutorial](https://www.sitepoint.com/angular-2-tutorial/)
 
-
+http://www.domstamand.com/demystifying-a-few-angular2-concepts-for-starters/
 
 ![1](http://www.valuecoders.com/blog/wp-content/uploads/2016/10/angular2-or-1.png)
