@@ -1,3 +1,34 @@
+* Using Angular CLI to create Hello World Angular 4 application
+* Bootstrapping
+* Web pack and dynamic module loading
+* Component
+* Modules
+* Displaying Data
+* Interpolation
+* Property Binding
+* Event Binding
+* Two-way Binding
+* Nested Components
+* Components communication with Input and Output
+* Using Template Expression in Component Communication
+* Life cycle hooks
+* Pipes
+* Custom pipes
+* Forms
+* Validations in forms
+* Configuring Routes
+* Routes and Actions
+* Parameters to Routes
+* Activate a Route in Code
+* Child Routers
+* Services
+* DI hierarchy
+* Getting Data with http
+* Posting data to API with http
+* Observables
+* Using Ignite UI Grid in Angular application
+* Adding Ignite UI for Angular data charts in application
+
 * [STYLE GUIDE](https://angular.io/styleguide)
 * [AngularJS in patterns](https://github.com/mgechev/angularjs-in-patterns)
 * [Angularjs Style Guide](https://github.com/mgechev/angularjs-style-guide)
