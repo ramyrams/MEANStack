@@ -15,6 +15,9 @@ http://kamranahmed.info//blog/2017/02/05/creational-design-patterns/
 https://gist.github.com/dypsilon/5819504
 
 
+https://nodejs.libhunt.com/
+A curated list of delightful Node.js modules and resources
+
 https://github.com/kamranahmedse/pipeline-js
 
 http://kamranahmed.info//blog/2015/01/03/private-and-public-scopes-in-javascript/
